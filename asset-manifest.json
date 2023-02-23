@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rc03_module-css/static/css/main.3d800148.css",
+    "main.js": "/rc03_module-css/static/js/main.b5e9c87e.js",
+    "index.html": "/rc03_module-css/index.html",
+    "main.3d800148.css.map": "/rc03_module-css/static/css/main.3d800148.css.map",
+    "main.b5e9c87e.js.map": "/rc03_module-css/static/js/main.b5e9c87e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d800148.css",
+    "static/js/main.b5e9c87e.js"
+  ]
+}
